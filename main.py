@@ -63,6 +63,6 @@ while True:
     except:
         print("That triangle doesn't exist")
 sleep(1)
-print("Thank you for using my Pythagorean theorem calculator. Please report bugs at <GitHub Link>")
+print("Thank you for using my Pythagorean theorem calculator. Please report bugs at https://github.com/Justrooo/Pythagorean-theorem-calculator/issues")
 sleep(3)
 input("Press any key to exit")
