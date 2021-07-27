@@ -60,6 +60,8 @@ while True:
         print("")
         print("Please type a NUMBER")
         print("")
+    except:
+        print("That triangle doesn't exist")
 sleep(1)
 print("Thank you for using my Pythagorean theorem calculator. Please report bugs at <GitHub Link>")
 sleep(3)
