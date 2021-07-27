@@ -3,7 +3,7 @@ from time import sleep
 
 
 def write():
-    print("Welcome to the Pythagorean theorem calculator v 1.0")
+    print("Welcome to the Pythagorean theorem calculator v 1.01")
     sleep(1)
     print("Select one of the options:")
     sleep(1)
